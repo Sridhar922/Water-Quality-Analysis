@@ -50,7 +50,7 @@ and from anywhere.
 <li> Main goal is to develop quality water for drinking.
 pH, Turbidity and Temperature sensors are
 used to gather the parameters necessary to monitor water
-health in real time.
+health in real time
 <li>Buy a home testing kit and dip each testing strip into a glass of tap water. Use the chart that came with the kit to determine your water quality.
 <li>Go to your city’s website to find your local area’s Water Quality Report.
 <li>Send alert messages when any discrepancies are found
